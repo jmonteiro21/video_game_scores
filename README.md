@@ -6,4 +6,4 @@ dataset of ~6000 videogames. The goal is to predict if the average users gave th
 mediocre, good, or great score. 
 
 
-Some things might be in portuguese. I will for sure remember to change it to english *wink* *wink*
+Some things might be in portuguese. I will for sure remember to change it to english *wink-wink*
