@@ -1,1 +1,1 @@
-# video_game_scores
+# Supervised Learning: Predicting video games user review scores
